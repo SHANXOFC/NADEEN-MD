@@ -4,8 +4,8 @@
     "description": "NADEEN-MD made for people on Earth",
     "logo": "https://files.catbox.moe/3mvn78.png",
     "keywords": ["bot"],
-    "documentation-link": "https://nadeen-md-session-web.koyeb.app/",
-    "owner-verification":"nadeenproject@gmail.com",
+    "documentation-link": "https://nadeenmd.vercel.app/",
+    "owner-verification":"nadeenpoornanew@gmail.com",
   
     "env": {
       "SESSION_ID": {
